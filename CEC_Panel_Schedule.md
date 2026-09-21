@@ -12,11 +12,11 @@
 | 2 | Bedroom + Living receptacles | 15 A, 1-pole | 14/2 AWG | AFCI | B | 1,000 | 8.3 |
 | 3 | Kitchen / Bath / WC lighting & exhaust | 15 A, 1-pole | 14/2 AWG | AFCI | A | 450 | 3.8 |
 | 4 | Kitchen counter receptacles (split) | 15 A, 2-pole | 14/3 AWG | GFCI | A+B | 2,880 | 12.0 |
-| 5 | Refrigerator (dedicated) | 15 A, 1-pole | 14/2 AWG | — | B | 700 | 5.8 |
+| 5 | Refrigerator (dedicated) | 15 A, 1-pole | 14/2 AWG | - | B | 700 | 5.8 |
 | 6 | Bathroom receptacle (dedicated) | 15 A, 1-pole | 14/2 AWG | GFCI | A | 1,440 | 12.0 |
 | 7 | Outdoor receptacles (front/rear entry) | 15 A, 1-pole | 14/2 AWG | GFCI, weatherproof | B | 600 | 5.0 |
-| 8 | Electric range | 40 A, 2-pole | 8/3 AWG | — | A+B | 6,000 | 25.0 |
-| 9-10 | Spare | — | — | — | — | — | — |
+| 8 | Electric range | 40 A, 2-pole | 8/3 AWG | - | A+B | 6,000 | 25.0 |
+| 9-10 | Spare | - | - | - | - | - | - |
 
 Load values are estimates for sizing (a real design uses appliance nameplate ratings). For the 2-pole circuits (4 and 8), Load (A) is the current in each hot leg. All circuits are within the 80% safe-loading limit (120 V circuits at or under 12 A; the range's 25 A under 32 A). Total connected load is about 57 A, within the 100 A service.
 
