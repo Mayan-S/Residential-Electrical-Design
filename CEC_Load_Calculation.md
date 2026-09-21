@@ -1,6 +1,7 @@
 # CEC Load Calculation
 
 **Standard:** CSA C22.1:24 (CEC), Rule 8-200, single dwelling
+
 **Supply:** 120/240 V, single-phase
 
 ## Inputs

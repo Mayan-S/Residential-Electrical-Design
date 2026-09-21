@@ -1,6 +1,7 @@
 # CEC Voltage-Drop Check
 
 **Standard:** CSA C22.1:24 (CEC), Rule 8-102
+
 **Supply:** 120 V branch circuit
 
 ## Worst-case run

@@ -1,6 +1,7 @@
 # CEC Branch Circuits & Panel Schedule
 
 **Panel:** 100 A, 120/240 V, single-phase
+
 **House:** as per load calc (59.66 m², 2 bed/living, kitchen, bath, WC)
 
 ## Circuit schedule
