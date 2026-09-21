@@ -25,8 +25,8 @@ Load values are estimates for sizing (a real design uses appliance nameplate rat
 **Required by code:**
 - **Kitchen counter circuits** must be split 15 A, or two 20 A T-slot circuits, so counter appliances have enough power.
 - **GFCI near water** (shock protection) is required by any sink and outdoors.
-- **Dedicated range circuit:** the stove gets its own 240 V circuit.
 - **AFCI (fire protection)** is required on living-area receptacle circuits.
+- **Dedicated range circuit:** the stove gets its own 240 V circuit.
 - **Smoke/CO detectors** required in the bedroom and in the central area near the sleeping room and gas appliances; hardwired to a lighting circuit (circuit 1) so they are always powered.
 
 **My design choices:**
